@@ -1,4 +1,10 @@
-* {
+* 
+H1 {
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+{
     margin: 10px;
     padding: 5px;
     box-sizing: border-box;
