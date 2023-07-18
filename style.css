@@ -1,7 +1,7 @@
 * 
-H1 {
-    color: aliceblue;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+h1 {
+    color: rgb(190, 204, 216);
+    font-family:'Montserrat', 'Montserrat';
 }
 
 body {
@@ -17,9 +17,8 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 10vh;
-    background-color:  rgba(229, 230, 233, 0.772);
+    background-color:  r gba(229, 230, 233, 0.772);
 }
-
 
 img {
     text-align: center;
