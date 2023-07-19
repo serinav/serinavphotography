@@ -3,7 +3,11 @@ h1 {
     color: rgb(190, 204, 216);
     font-family:'Montserrat', 'Montserrat';
 }
-
+a:visited {
+    color: rgb(243, 243, 243);
+    background-color: transparent;
+    text-decoration: none;
+}
 body {
 	font-family: 'Montserrat', 'Montserrat';    
 	margin: 10px auto;
