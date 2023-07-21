@@ -5,12 +5,15 @@ h1 {
 }
 a:visited {
     color: rgb(243, 243, 243);
-    background-color: transparent;
-    text-decoration: none;
 }
+
+nav {
+    background-color: rgba(25, 53, 99, 0.543);
+}
+
 body {
 	font-family: 'Montserrat', 'Montserrat';    
-	margin: 10px auto;
+	margin: 30px auto;
     background-color: rgb(14, 31, 59);
     padding-right: 5%;
     padding-left: 5%;
