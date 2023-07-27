@@ -19,21 +19,25 @@ body {
     padding-left: 5%;
 }
 
+
+
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 10vh;
+    min-height: 8vh;
     background-color:  r gba(229, 230, 233, 0.772);
+    margin-bottom: 5%;
 }
 
 img {
     text-align: center;
     max-width: 400%;
     height: 400px;
-    width: 400px;
+    width: 370px;
     object-fit: cover;
     transition: transform .2s;
+    margin: 2%;
 }
 
 
