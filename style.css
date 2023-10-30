@@ -4,7 +4,7 @@ h1 {
     font-family:'Montserrat', 'Montserrat';
 }
 a:visited {
-    color: rgb(243, 243, 243);
+    color: rgb(255, 255, 255);
 }
 
 nav {
@@ -39,6 +39,7 @@ img {
     transition: transform .2s;
     margin: 2%;
 }
+
 
 
 
