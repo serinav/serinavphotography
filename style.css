@@ -37,7 +37,7 @@ img {
     width: 400px;
     object-fit: cover;
     transition: transform .2s;
-    margin: 2%;
+    margin: 0.1%;
 }
 
 
